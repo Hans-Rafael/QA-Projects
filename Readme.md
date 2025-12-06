@@ -67,9 +67,7 @@ Aquí encontrarás una colección curada de mis proyectos más recientes, dividi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hans-rafael&layout=compact&theme=radical" alt="Top Langs" width="45%" />
   
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hans-Rafael&show_icons=true" alt="Hans Garcia Stats"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hans-Rafael&layout=compact" />
 ---
 
 ## 📫 Contacto
