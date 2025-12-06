@@ -42,7 +42,7 @@ Cada proyecto aquí documentado incluye el Plan de Pruebas, Casos de Prueba, Mat
 | Proyecto | Enfoque Principal | Descripción Rápida |
 | :--- | :--- | :--- |
 | [**Manual Testing Talentolab**](./Manual_Testing_Talentolab/README.md) | **QA Integral / Scrum** | Simulación completa de un Sprint QA (Jira/Zephyr) para plataforma web y API, cubriendo todo el ciclo de vida del testing. |
-| [**Auditoría Portal Egresados**](./Manual_Testing_portaldeegresados/README.md) | **Bug Hunting / Pre-Release** | Auditoría rápida y enfocada en la detección de defectos críticos y entrega de un Informe Pre-Release. |
+| [**Auditoría Portal Egresados**](./Manual_Testing_portaldeegresados/README.md) | **Bug Hunting / Pre-Release** | Auditoría rápida (Test Cases) y enfocada en la detección de defectos críticos (Bug Report) y entrega de un Informe Pre-Release. |
 
 ---
 
