@@ -60,18 +60,6 @@ Aquí encontrarás una colección curada de mis proyectos más recientes, dividi
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hans-Rafael&show_icons=true&theme=radical" alt="Hans Garcia Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hans-rafael&layout=compact&theme=radical" alt="Top Langs" width="45%" />
-  
-</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hans-Rafael&layout=compact" />
-
-https://github-readme-stats.vercel.app/api?username=Hans-Rafael&show_icons=true
----
-
 ## 📫 Contacto
 
 ¿Tienes alguna oportunidad o proyecto en mente? ¡Hablemos!
