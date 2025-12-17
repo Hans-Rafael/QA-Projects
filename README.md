@@ -51,8 +51,8 @@ Cada proyecto aquí documentado incluye el Plan de Pruebas, Casos de Prueba, Mat
 Estoy abierto a oportunidades donde pueda aplicar mis habilidades de QA en un entorno ágil y de alto rendimiento.
 
 * **LinkedIn:** [linkedin.com/in/hans-developer](https://linkedin.com/in/hans-developer)
-* **Portafolio General:** [hans-rafael.github.io](https://hans-rafael.github.io)
-* **Email:** [hansvekoni@gmail.com](mailto:hansvekoni@gmail.com)
+* **Portafolio General:** [hans-rafael.dev](https://hans-rafael.dev/)
+* **Email:** [contact@hans-rafael.dev](mailto:contac@hans-rafael.dev)
 
 ---
 <p align="center">Construido y testeado con ❤️ por Hans Garcia</p>
