@@ -3,9 +3,9 @@
 # Hola, soy Hans Garcia 👋
 ### QA Engineer | Experto en Metodologías Ágiles (Scrum)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hans-developer)
-[![Portafolio General](https://img.shields.io/badge/Portafolio_General-Web-orange?style=flat-square&logo=google-chrome)](https://hans-rafael.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:hansvekoni@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hans-developer)
+[![Portafolio General](https://img.shields.io/badge/Portafolio_General-Web-orange?style=for-the-badge&logo=google-chrome)](https://hans-rafael.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:hansvekoni@gmail.com)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **¡Bienvenido a mi Portafolio de Proyectos de Aseguramiento de Calidad!**
 
-Este espacio está dedicado a showcasing mi experiencia integral en Testing. Mi **sólida base como Full Stack Developer** me permite enfocarme en un QA más profundo, identificando no solo la manifestación del error, sino también la **causa raíz** a nivel de código y arquitectura.
+Este espacio está dedicado a showcasing mi experiencia integral en Testing. Mi **sólida base como Full Stack Developer** me permite enfocarme en un QA más profundo, identificando no solo la manera en que algo funciona, sino también cómo podría romperse.
 
 Mi pasión es garantizar la calidad del producto final y optimizar los ciclos de entrega dentro de entornos **Ágiles (Scrum)**.
 
@@ -31,7 +31,6 @@ Mi pasión es garantizar la calidad del producto final y optimizar los ciclos de
 | **Testing** | Manual Testing, Testing de APIs (Postman), Pruebas Funcionales, No Funcionales |
 | **Documentación** | Bug Reporting, Test Planning, Matrices de Trazabilidad, Informes Pre-Release |
 | **Metodología** | Scrum (Metodología Ágil), Desglose Ágil de Requerimientos (Storytelling) |
-<!-- | **Testing Automático** | **[Aquí pones tus herramientas de automatización]** |Recordar mover Arriba bajo testing y testing sera testing manual -->
 
 ---
 
@@ -41,8 +40,8 @@ Cada proyecto aquí documentado incluye el Plan de Pruebas, Casos de Prueba, Mat
 
 | Proyecto | Enfoque Principal | Descripción Rápida |
 | :--- | :--- | :--- |
-| [**Manual Testing Talentolab**](./Manual_Testing_Talentolab/README.md) | **QA Integral / Scrum** | Simulación completa de un Sprint QA (Jira/Zephyr) para plataforma web y API, cubriendo todo el ciclo de vida del testing. |
-| [**Auditoría Portal Egresados**](./Manual_Testing_portaldeegresados/README.md) | **Bug Hunting / Pre-Release** | Auditoría rápida (Test Cases) y enfocada en la detección de defectos críticos (Bug Report) y entrega de un Informe Pre-Release. |
+| [**Manual Testing Talentolab**](./Manual_Testing_Talentolab/README.md) | **QA Integral / Scrum** | Simulación completa de un Sprint QA (Jira/Zephyr) para plataforma web y API, cubriendo todo el ciclo. |
+| [**Auditoría Portal Egresados**](./Manual_Testing_portaldeegresados/README.md) | **Bug Hunting / Pre-Release** | Auditoría rápida (Test Cases) y enfocada en la detección de defectos críticos. |
 
 ---
 
