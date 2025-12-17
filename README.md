@@ -4,7 +4,7 @@
 ### QA Engineer | Experto en Metodologías Ágiles (Scrum)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hans-developer)
-[![Portafolio General](https://img.shields.io/badge/Portafolio_General-Web-orange?style=for-the-badge&logo=google-chrome)](https://hans-rafael.github.io)
+[![Portafolio General](https://img.shields.io/badge/Portafolio_General-Web-orange?style=for-the-badge&logo=google-chrome)](https://hans-rafael.dev)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:contact@hans-rafael.dev)
 
 ---
