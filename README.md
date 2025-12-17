@@ -13,7 +13,7 @@
 
 **¡Bienvenido a mi Portafolio de Proyectos de Aseguramiento de Calidad!**
 
-Este espacio está dedicado a showcasing mi experiencia integral en Testing. Mi **sólida base como Full Stack Developer** me permite enfocarme en un QA más profundo, identificando no solo la manera en que algo funciona, sino también cómo podría romperse.
+Este espacio está dedicado a showcasing mi experiencia integral en Testing. Mi **sólida base como Full Stack Developer** me permite enfocarme en un QA más profundo, identificando no solo la manifestación del error, sino también la **causa raíz** a nivel de código y arquitectura.
 
 Mi pasión es garantizar la calidad del producto final y optimizar los ciclos de entrega dentro de entornos **Ágiles (Scrum)**.
 
