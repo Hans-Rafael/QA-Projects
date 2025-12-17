@@ -52,7 +52,7 @@ Estoy abierto a oportunidades donde pueda aplicar mis habilidades de QA en un en
 
 * **LinkedIn:** [linkedin.com/in/hans-developer](https://linkedin.com/in/hans-developer)
 * **Portafolio General:** [hans-rafael.dev](https://hans-rafael.dev/)
-* **Email:** [contact@hans-rafael.dev](mailto:contac@hans-rafael.dev)
+* **Email:** [contact@hans-rafael.dev](mailto:contact@hans-rafael.dev)
 
 ---
 <p align="center">Construido y testeado con ❤️ por Hans Garcia</p>
